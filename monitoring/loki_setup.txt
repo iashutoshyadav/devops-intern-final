@@ -1,0 +1,11 @@
+Grafana Loki Setup
+
+Loki was started locally using Docker.
+
+Command used:
+docker run -d -p 3100:3100 grafana/loki:2.9.0
+
+Logs can be viewed using:
+docker logs <container-id>
+
+This setup enables basic log monitoring for the application.
