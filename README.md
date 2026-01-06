@@ -1,6 +1,6 @@
 # DevOps Intern Final Assessment
 
-![CI](https://github.com/ashutoshyadav/devops-intern-final/actions/workflows/ci.yml/badge.svg)
+[![CI Pipeline](https://github.com/iashutoshyadav/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/iashutoshyadav/devops-intern-final/actions/workflows/ci.yml)
 
 Name: Ashutosh Yadav  
 Date: 12/01/2026  
