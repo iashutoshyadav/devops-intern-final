@@ -1,10 +1,13 @@
 # DevOps Intern Final Assessment
 
+![CI](https://github.com/ashutoshyadav/devops-intern-final/actions/workflows/ci.yml/badge.svg)
+
 Name: Ashutosh Yadav  
 Date: 12/01/2026  
 
 ## Project Description
-This project demonstrates a simple DevOps workflow using GitHub, Linux scripting, Docker, CI/CD, Nomad, and monitoring tools.
+This project demonstrates a simple DevOps workflow using open-source tools such as GitHub, Linux scripting, Docker, CI/CD with GitHub Actions, Nomad, and monitoring with Grafana Loki.  
+Each step produces usable output for the next, simulating a basic real-world DevOps pipeline.
 
 ## Steps Implemented
 1. Git & GitHub repository setup
@@ -14,8 +17,10 @@ This project demonstrates a simple DevOps workflow using GitHub, Linux scripting
 5. Job deployment using Nomad
 6. Monitoring using Grafana Loki
 
+---
+
 ## How to Run
 
-### Python Script
+### 1. Python Script
 ```bash
 python hello.py
